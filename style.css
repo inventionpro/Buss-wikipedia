@@ -6,7 +6,12 @@ body {
   backgorund-color: #f8f9fa;
 }
 
+h1 {  
+  color: #000;
+}
+
 title {
+  color: #000;
   direction: row;
   align-items: center;
 }
