@@ -1,5 +1,12 @@
+/* bussinga! */
+
 body {
   color: #000;
   font-family: sans-serif;
   backgorund-color: #f8f9fa;
+}
+
+title {
+  direction: row;
+  align-items: center;
 }
