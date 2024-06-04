@@ -12,4 +12,5 @@ tt {
   color: #000;
   direction: row;
   align-items: center;
+  justify-content: center;
 }
