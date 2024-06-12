@@ -1,3 +1,7 @@
+print(get('search'))
+print(get('title'))
+print(get('content'))
+
 get('search').on_submit(function(content)
   get('title').set_content('Loading')
   get('content').set_content('Page content loading...')
