@@ -1,11 +1,11 @@
 body {
-  color: #000;
+  color: #ffffff;
   font-family: sans-serif;
-  backgorund-color: #f8f9fa;
+  backgorund-color: #000000;
 }
 
-h1 {  
-  color: #000;
+title {
+  font-size: 25px;
 }
 
 tt {
